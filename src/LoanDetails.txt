@@ -1,0 +1,5 @@
+ach,6,1,15700,1386.8333333333333,Simple Interest Loan
+ankit,3,1,1000,85.83333333333333,Simple Interest Loan
+ash,3,5,500,9.583333333333334,Simple Interest Loan
+ashi,7,1,145450,12969.291666666666,Simple Interest Loan
+ashik,3,4,10000,233.33333333333337,Simple Interest Loan
